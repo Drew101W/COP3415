@@ -1,4 +1,4 @@
-// File: AVL_countGreaterNode.cpp
+// File: AVL_countGreaterNodeWhiting.cpp
 // Name: Drew Whiting
 // Course: COP3415.02I&T
 // Date of Last Modification: April 13, 2026
